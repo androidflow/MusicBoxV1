@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JavaPractice18MPMusicBox1</string>
+    <string name="oval">oval</string>
+    <string name="line">line</string>
+    <string name="theme_audio">Theme Audio</string>
+    <string name="theme_musician">Theme Musician</string>
+    <string name="timeLeft">0:00</string>
+    <string name="timeRight">0:00</string>
+    <string name="audioText">Hold</string>
+</resources>
